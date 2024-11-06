@@ -31,7 +31,7 @@ Instead of embedding sensitive database credentials within the application, **AW
 
 ## Architecture Diagram
 
-> *(Placeholder for Architecture Diagram)*
+![](https://github.com/Kishor-Bibin/Web-Application-Deployment-on-AWS-ECS-Fargate/blob/be1eaf9178324fe8d7d460ccd998f60cf1267587/Architecture/Diagram.png)
 
 ---
 
