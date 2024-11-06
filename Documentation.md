@@ -1,4 +1,4 @@
-### Web Application Deployment on AWS ECS Fargate
+# Web Application Deployment on AWS ECS Fargate
 
 ### Project Overview
 
