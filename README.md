@@ -18,7 +18,7 @@ A highly scalable, secure, and efficient web application for Richard Roast, a co
 
 ## Introduction
 
-The **Richard Roast Coffee Web Application** is a containerized application hosted on AWS with ECS Fargate. The project leverages various AWS services, including **Elastic Container Registry (ECR)** for image storage, **RDS** for data storage, and **Secrets Manager** for secure credential management. This setup ensures scalability, high availability, and security, making it ideal for production environments.
+The **Roast Coffee Web Application** is a containerized application hosted on AWS with ECS Fargate. The project leverages various AWS services, including **Elastic Container Registry (ECR)** for image storage, **RDS** for data storage, and **Secrets Manager** for secure credential management. This setup ensures scalability, high availability, and security, making it ideal for production environments.
 
 ### Why Secrets Manager?
 
